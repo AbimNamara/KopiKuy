@@ -1,0 +1,50 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "starduck": [
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/2/28/41d73890-605c-417f-8b79-45cbf5e449d6.jpg",
+            "nama": "starbBiji Kopi Bubuk Starbuck Breakfast",
+            "size": "250 Gram",
+            "harga": "399.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fausiefood%2Fbiji-kopi-bubuk-starbuck-breakfast-whole-bean-coffee-starbucks-250gr&psig=AOvVaw0XCBBXG4JkT_vQvYopUrGO&ust=1686283931592000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPiaq63nsv8CFQAAAAAdAAAAABAD"
+        }
+    ]
+}
